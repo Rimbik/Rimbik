@@ -1,0 +1,240 @@
+
+WORK EXPERIENCE
+
+
+DELTATRE MEDIA LTD, Mumbai (Ind)						2016 – 2018
+    Web Developer (CMS and Angular - B2C OTT and other) 
+    Domain: Sports Domain (Media and Entertainment)
+    Tech Stack: C#, ASP .net MVC, No-SQL, CMS, OTT, Online sports, 
+    Live streaming (Football, Cricket, Tennis and other OnDemand sports over Web and OTT)
+ 
+Ness Technologies India, Mumbai (Ind)				                2015 – 2016
+    Member Technical Staff
+    Domain: Diamond Trading and B2C
+    Tech Stack: C#, ASP .Net MVC, SQL DB, EPiServer CMS
+ 
+DATAMATICS GLOBAL SERVICES LIMITED, Vienna/Austria:                             2012 – 2014
+    Sr. Software Developer for United Nations, IAEA
+    Domain: Nuclear 
+    Tech Stack: C#, WCF, SQL Server
+ 
+
+CAPGEMINI INDIA (P) LTD, Mumbai (Ind)					        2008 – 2012
+    Sr. Consultant
+    Domain: 4 yrs. with 2 clients on Logistics and Healthcare
+    Tech Stack: C#, .NET, ASP .NET, SQL Server, Oracle
+ 
+ATOS ORIGIN INDIA, Mumbai (Ind)						        2007 - 2008
+    System Analyst
+    Domain: UK Railways – National-Express
+    Tech Stack: C# ASP. Net, JavaScript, SQL Server, Web Services
+ 
+HEXAWARE TECHNOLOGIES LTD, Mumbai (Ind)				                2006 - 2007
+   Sr. Software Engineer
+   Domain: UK Railways - VirginTrain	
+   Teck stack: C#, ASP .NET, Web Service, Biztalk, DNN, Oracle
+ 
+UNIVERSALSHORING, JAIPUR Rajasthan 					        2005 - 2006
+   .NET Developer
+    Multiple assignments with many .NET custom libraries development
+ 
+ 
+SV IMPACT, Kolkata/WB 							        1999 - 2000
+    FoxPro Developer 
+    Projects: 2 diff projects mainly on Accountancy
+    EDUCATIONAL DEVELOPMENT
+
+•	AZ-300 Microsoft Azure Architect Technologies – Aug 2020 - ID: MS0990000455  
+•	Microsoft Certified Professional – C# (MCP/MCTS), Windows Communication Foundation Certified – 2010 ID: 6538830
+•	Redis for .NET Developers – Mar 2023 – ID: cfe43d41ea1245978fc813d43614c53e
+
+Post Graduate Diploma in Computer Application (2000 – 2001)
+Indira Gandhi National Open University: MCA ID: 001295334
+
+Diploma in Computer Programming and Application (DCPA) (1996 – 1997)
+Tata Unisys Ltd. Education Centre
+
+Bachelor of Commerce (1996 – 1998)
+Burdwan University (West Bengal)
+
+Certification:
+Accomplished certification for Company and industry– based training courses
+Interest: Geopolitics, English Football, Movies, Music
+ 
+
+PROJECT ANNEXURE
+
+(Client) Mumbai	>> Since July 2018
+Worked as Senior .Net Specialist.  Managed various projects for manufacturing and Retail domain. Managing apps for client portfolio, POCs, technical solution to apps
+Developing .net code for multiple domains and projects on C#, ASP.Net MVC, Web API, MicroService development using CQRS, Event sourcing, Cosmos DB, Redis, SQL Server, Azure Storage, PaaS, IaaS, Azure APIM, APIs/REST development etc.
+
+Project: Microservice Architecture and Development: 1+ year
+Responsibility: Upgrading legacy apps to Microservices 
+Worked as Microservice Consultant on Azure
+Technology: Azure PaaS and other azure services, Microservice development using API gateways, EventSourcing, CQRS, Polly, ServiceBus , MassTransit, Ocelot/YARP, APIM, AZ SQL and NoSQL/Cosmos DB 
+and other Microservice tools. Developed CQRS based query API to work on azure workload, searching, using web api, sql, redis, docker/az acr, kibana etc and orchestrated many other business critical APIs.
+
+Team Size: 15 plus
+ 
+
+Project: IFC  (EDI-PIPE)
+
+IFC– Invoice File Conversion is a B2B application that Creates Invoices made with PEPPOL BIS Billing 3.0 EU standard. A Mainframe migration project
+Responsibility: 
+	Realizing requirement for Creating Invoice under UBL 2.1 Invoice Format and EU Standards
+	Identifying all available resources, Data source and modules for reuse
+	Establishing suitable plan for Mainframe migration  
+	Migrating existing Paper and E–Invoice solution to PEPPOL Invoice as mandate by Govt
+	Architecting, Documenting and Developing .Net based solution 
+	Integration with several 3rd Parties for the Migration and release plan
+Proving a solution best for the Org irrespective of Domain, Language, Tools, Env whether Azure, Azure Stack Hub or a complete In-house solution.
+
+Tools & Technology:
+	C# .Net Core, Windows Service, SQL Server 2019, SSIS/ETL, ASP.Net MVC
+	SQL Server Schema, Design, SSIS, XML, JSON and several 3rd party Integration
+	Integration with CRM, BizTalk, Mainframe, Customer Service using .Net and APIs
+
+Deltatre Ltd (Online Sport, Media & Entertainment – Web and OTT)
+https://www.deltatre.com/
+Web Developer
+Domain: Sport Web Site, B2C
+
+Taking architectural decision, defining ABB, SBB with framework level decision, finding best strategy and framework to materialize the solution and delivery. Have successfully served 2 major B2C projects for 2 different international clients with the above capacity.
+
+
+Oct 2016 – June 2018
+Project: AFC Web Site 
+http://www.the-afc.com/
+Developing Sport Digital Web site using MVC 4, Angular JS, SPA, Forge CMS, Azure, Azure Hosting, CDN,
+Development and applying various Azure Resources, App Service, High Availability, TM/Load, Blobs, 
+Service Bus & SignalR push notification for live stream/OTT, Video on demand service, Deployment, Farm Setting, Monitoring
+
+Project ITV Box Office
+		https://www.itv.com/terms/itvboxoffice (PPV for ITV Boxing event): ITV Box Office
+		Developing SPA, Web App for PPV (Pay Per View) Video Stream, Media management, CMS, 
+                Azure Development CDN and Hosting with other azure services 
+		Payment Gateway Integration like PayPal, PayWizard + Identity Management 	
+
+
+
+Ness Technologies Ltd, India							Mar’2015 – Oct 2016
+Senior .Net Developer – Member Technical Staff
+Project: DBDJ (Domain: Digital Marketing – Diamond Trading)
+Client:  De Beers, UK 
+https://www.iidgr.com/
+https://www.forevermark.com
+		Developing MVC, Epi Server 7/8 Web app for diamond trading domain
+Production Support & enhancement of public sites: IIDGR, DBDJ, FMD, FMC-RMD, ForeverMark with ASP.Net, MVC, SQL Server, Web and WCF services. FMJ (ForeverMark Jewelers) – with AngularJS and Web API 2
+
+ 
+Project: IIDV (International Institute of Diamond Valuation) 
+(Domain: Digital Marketing – Diamond Trading)
+Client:  De Beers, UK 
+		https://www.iidv.com/
+Developing MVC Epi Server 7 Web App for diamond trading domain with C#, WCF, JavaScripts
+
+
+Datamatics Global Services Limited						Apr’2012 – Mar’2014
+Sr. .Net Developer (Vienna)
+-	Developing .net application using .Net 4.0 , VS 2012,WCF, MVC, SQL Server 2012
+-	Application Security
+-	Designing Database Schemas And Role Based Application Security
+-	Agile Methodology, Scrum
+-	Implementing Testing Strategies
+
+
+Project: SGMD
+Client: International Atomic Energy Agency (IAEA), United Nations 
+Location: Vienna, Austria
+Role: Sr. System Analyst
+Duration: May-2012 – Mar-2014
+Domain: Atomic Energy
+Description:
+SGMD (Safeguards Master Data) is a highly secured service-based application (technically a mainframe migration project) 
+with SQL server that acts as a base wcf service for many other applications and services to maintain nuclear data related to 
+nuclear facilities and nuclear deal signed by the states. 
+Technology Used: C#, ASP.NET/MVC, WPF, WCF/WSSF, SQL Server 2012, SSIS, SSRS, Unit Test, Scrum
+
+
+CAPGEMINI INDIA (P) LTD, India							Sep’08 – Mar’12
+(CMM – 5)
+Sr.  Consultant
+
+§	Design, analyze, code, document, and implement applications that support and enhance administrative and associated systems.  This includes on-going support of these applications. 
+§	Undertake custom application development using various languages & tools to support and enhance existing systems
+§	Carry out needs assessment, system integration and design support and general change management support.
+§	Assist in the designing, planning, development, installation, operations and implementation of applications
+§	Work closely with other Programmer/Analysts to deliver timely and cost-effective solutions. 
+
+
+
+Project: SyCoMor
+Client: Actelion, Switzerland
+Location: Mumbai, India and Swiss
+Role: Application Life cycle Management and enhancing of the ASP.NET application with Oracle11G.
+Duration: May-10 to Mar-2012
+
+Project: Showcase
+Client: Sogeti, France
+Location: Mumbai, India
+Role: Developing applications using Silverlight 2.0 (C#)/WCF RIA Service/LINQ, Entity Framework and SQL Server.
+Duration: Feb-09 to Mar-10
+
+
+Project: Geodis Valenda
+Domain: Logistics
+Client: Geodis, France
+Location: Mumbai, India
+Role: Developing application using C#, ASP.NET, .Net Framework 3.5, WCF and SQL Server
+Module: Complete Development
+Duration: 1 yr
+
+
+ATOS ORIGIN INDIA (CMM-5) 							Sep’07-Sep’08
+
+
+Project:	Lima
+Domain	Atos HealthCare
+Client	Atos Health Care UK
+Role	Developing application using VB.NET, XML/XSLT, Web Service and Sql Server
+Module	MSRS Report generation with XML/XSLT, Custom Serialization and integration of Web Service
+
+HEXAWARE TECHNOLOGIES LTD 							Sep’06-Sep’07
+
+Project:	Trainline (UK Railway reservation)
+Domain	Travel
+Client	Virgin Train, UK
+Team Size	100+
+Role	Developing application with C#, Asp.net, SQL Server 2005, Oracle9i (involves Biztalk Server 2006) Implementing SOA/TDD, migrating to agile software development with commercial/open source tools like DNN, CruiseControl, TypeMock, Nant, FxCop, NCover and implementing stubbing strategy for NFT environment
+
+Project:	ITSR2
+Client	BP (British Petroleum) & Fujitsu Services
+Role	Developing and maintaining an IT Service Request Tool (multilingual) in ASP.NET and SQL Server 2000 being used by 32000 BP users.
+
+
+
+
+
+
+
+
+
+UNIVERSALSHORING								Mar’05-Feb’06
+
+Project:	Custom and User Control 
+	Developing various Web User and Custom controls for third party project integration using C# and VB.Net. Third Party API integration and designing components and libraries, assembly using C#. Designing various library based generic interfaces.
+
+
+
+SV IMPACT, Kolkata (Ind)							Mar’1999 to Mar’2000
+			
+Project:	Explorer 
+Technology	Microsoft FoxPro for Windows – FPW26
+Role	Developing FoxPro GUI based accounting package that helps company to maintain various accounting activities in the area of Receivables and Payable, Cash Flow and Fund Flow, Payment Performance and Debtors, Credit Management, Balance Sheet.
+
+
+
+
+
+Last Updated on: Jan-2024
+
