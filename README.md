@@ -20,6 +20,9 @@
 - Strong focus on C# and distributed services (B2C & B2B) for greenfield projects
 - Extensive experience across diverse domains: transport & logistics, healthcare, oil & gas, nuclear, sports & entertainment, diamond trading, retail
 
+![image](https://github.com/user-attachments/assets/4d6e923a-5c88-4c54-ac40-d1151bc80bc2)
+
+
 **Clients Served:**  
 British Petroleum, UK Railways, UK Healthcare, De Beers UK, Geodis-Valenda, Actelion Pharmacy, FIFA/UEFA, United Nations – IAEA, ATI Metals, OKQ8, ExxonMobil  
 Worked with: Capgemini, Atos, L&T Infotech
