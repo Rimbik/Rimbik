@@ -1,6 +1,6 @@
 # SOUMEN DEY
 
-📞 0091 9339481589 / 0091 8652048306  
+📞 0091 9339481589  
 📍 West Bengal, India  
 📧 [soumenjobs2012@gmail.com](mailto:soumenjobs2012@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ta-soumen/) | [GitHub](https://github.com/Rimbik)  
