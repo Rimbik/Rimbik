@@ -25,12 +25,12 @@
 
 **Clients Served:**  
 British Petroleum, UK Railways, UK Healthcare, De Beers UK, Geodis-Valenda, Actelion Pharmacy, FIFA/UEFA, United Nations – IAEA, ATI Metals, OKQ8, ExxonMobil  
-Worked with: Capgemini, Atos, L&T Infotech
+Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (UN)
 
 **Skill Breakdown:**  
-- Front End: 5%  
-- Middle Tier: 65%  
-- Database: 30%  
+- Front End: 5%  (Keep strong knowledge)
+- Middle Tier: 65%  (Most preferrable)
+- Database: 30%  (as you have no other place to store)
 
 **Strengths:**  
 - C#, Web Applications, SOA, Microservices, Middle Tier  
