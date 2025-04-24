@@ -87,7 +87,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 - **AI-ML/GenAI Professional Certifications** – Simplilearn & IITK (Ongoing)  
 
 **Academic:**  
-- PGDCA, Indira Gandhi National Open University, 2000–2001  
+- PGDCA/Com Sci, Indira Gandhi National Open University, 2000–2001  
 - DCPA, Tata Unisys Ltd. Education Centre, 1996–1997  
 - B.Com, Burdwan University, 1996–1998  
 
