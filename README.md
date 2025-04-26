@@ -95,7 +95,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 
 ## Interests
 
-Geopolitics, English Football, Movies, Music  
+Geopolitics, English Football, Movies, Music , Forest and Sea
 
 📂 [Project Portfolio on GitHub](https://github.com/Rimbik)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ta-soumen/)
