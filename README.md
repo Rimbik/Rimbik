@@ -18,7 +18,7 @@
 - Individual contributor in Microsoft Technology Stack since .NET Framework 1.0
 - Started as a FoxPro Developer in 1999
 - Strong focus on C# and distributed services (B2C & B2B) for greenfield projects
-- Extensive experience across diverse domains: transport & logistics, healthcare, oil & gas, nuclear, sports & entertainment, diamond trading, retail
+- Extensive experience across diverse domains: transport & logistics, healthcare, oil & gas, nuclear, digital sports & entertainment, diamond trading, retail
 
 ![image](https://github.com/user-attachments/assets/4d6e923a-5c88-4c54-ac40-d1151bc80bc2)
 
@@ -42,7 +42,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 .NET Microservices, Event Sourcing, B2B Messaging, CQRS & DDD/EDD, API Gateway, Resilient Apps, Azure ecosystem
 
 **Additional Tech Knowledge:**  
-- AI, ML/DL (Regression, Classification) using TensorFlow, Keras, Python  
+- AI, ML/DL (Regression, Classification) using TensorFlow, Keras, Python and gen ai
 - Raspberry Pi and IoT  
 
 ---
