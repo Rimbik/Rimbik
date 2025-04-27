@@ -10,8 +10,6 @@
 ## Microsoft .NET / Azure Architect  
 **Architect + Developer –: Hands On**  
 *(Microservice, SOA, Azure, B2C/B2B)*  
-
-no presales/biz dev
 ---
 
 ### Profile
@@ -32,6 +30,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 - Front End: 5%  (Keep strong knowledge)
 - Middle Tier: 65%  (Most preferrable)
 - Database: 30%  (as you have no other place to store)
+- no presales and biz development 
 
 **Strengths:**  
 - C#, Web Applications, SOA, Microservices, Middle Tier  
@@ -101,4 +100,3 @@ Geopolitics, English Football, Movies, Music , Forest and Sea
 📂 [Project Portfolio on GitHub](https://github.com/Rimbik)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ta-soumen/)
 
-no Presales and biz dev
