@@ -101,3 +101,4 @@ Geopolitics, English Football, Movies, Music , Forest and Sea
 📂 [Project Portfolio on GitHub](https://github.com/Rimbik)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ta-soumen/)
 
+no Presales and biz dev
