@@ -8,8 +8,9 @@
 ---
 
 ## Microsoft .NET / Azure Architect  
-**Architect + Developer –: Hands On**  
-*(Microservice, SOA, Azure, B2C/B2B)*  
+**Architect + Developer –: Hands On**
+
+Microservice, SOA, Azure, B2C/B2B 
 ---
 
 ### Profile
