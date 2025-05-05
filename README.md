@@ -74,7 +74,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 **Universalshoring, Jaipur**  
 *.NET Developer* | Mar 2005 – Feb 2006  
 
-**SV Impact, Kolkata/WB**  
+**SV Impact, Kolkata/West Bengal**  
 *FoxPro Developer* | Mar 1999 – Mar 2000  
 
 ---
