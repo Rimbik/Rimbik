@@ -85,7 +85,7 @@ Major Org Worked with: Capgemini, Atos, L&T Infotech and United Nations/Vienna (
 - **AZ-300: Microsoft Azure Architect Technologies** – ID: MS0990000455, Aug 2020  
 - **Microsoft Certified Professional – C# (MCP/MCTS)**, Windows Communication Foundation – ID: 6538830, 2010  
 - **Redis for .NET Developers** – Mar 2023, ID: cfe43d41ea1245978fc813d43614c53e  
-- **AI-ML/GenAI Professional Certifications** – Simplilearn & IITK (Ongoing)  
+- **AI-ML-DL/GenAI Professional Certifications** – Simplilearn & IITK (Ongoing)  
 
 **Academic:**  
 - PGDCA/Com Sci, Indira Gandhi National Open University, 2000–2001  
